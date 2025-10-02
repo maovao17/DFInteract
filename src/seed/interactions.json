@@ -1,0 +1,8 @@
+[
+  { "drugId": "1", "foodId": "1", "severity": "high", "description": "Spinach is high in vitamin K, which reduces Warfarin effectiveness" },
+  { "drugId": "1", "foodId": "2", "severity": "moderate", "description": "Grapefruit may increase Warfarin levels" },
+  { "drugId": "1", "foodId": "3", "severity": "high", "description": "Alcohol increases bleeding risk with Warfarin" },
+  { "drugId": "2", "foodId": "3", "severity": "high", "description": "Alcohol increases bleeding risk with Aspirin" },
+  { "drugId": "3", "foodId": "4", "severity": "moderate", "description": "Dairy may reduce Metformin absorption" },
+  { "drugId": "5", "foodId": "3", "severity": "moderate", "description": "Alcohol may increase side effects of Prednisone" }
+]

@@ -1,0 +1,12 @@
+[
+  { "name": "Spinach", "category": "Leafy Green" },
+  { "name": "Grapefruit", "category": "Fruit" },
+  { "name": "Alcohol", "category": "Beverage" },
+  { "name": "Dairy", "category": "Dairy" },
+  { "name": "Banana", "category": "Fruit" },
+  { "name": "Tomato", "category": "Vegetable" },
+  { "name": "Chicken", "category": "Protein" },
+  { "name": "Carrot", "category": "Vegetable" },
+  { "name": "Brown Rice", "category": "Grain" },
+  {  "name": "Oatmeal", "category": "Grain" }
+]

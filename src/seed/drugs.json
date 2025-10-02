@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Warfarin",
+    "description": "Blood thinner used to prevent blood clots",
+    "sideEffects": ["Bleeding", "Bruising"]
+  },
+  {
+    "name": "Aspirin",
+    "description": "Pain reliever and anti-inflammatory",
+    "sideEffects": ["Stomach upset", "Bleeding"]
+  },
+  {
+    "name": "Metformin",
+    "description": "Used for type 2 diabetes",
+    "sideEffects": ["Nausea", "Diarrhea"]
+  },
+  {
+    "name": "Lisinopril",
+    "description": "Used for high blood pressure",
+    "sideEffects": ["Cough", "Dizziness"]
+  },
+  {
+    "name": "Prednisone",
+    "description": "Corticosteroid for inflammation",
+    "sideEffects": ["Weight gain", "Insomnia"]
+  }
+]
